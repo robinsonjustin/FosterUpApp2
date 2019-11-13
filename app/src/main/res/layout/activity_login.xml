@@ -20,7 +20,8 @@
         android:layout_height="445dp"
         app:srcCompat="@drawable/icon"
         tools:layout_editor_absoluteX="61dp"
-        tools:layout_editor_absoluteY="-49dp" />
+        tools:layout_editor_absoluteY="-49dp"
+        click/>
 
 
     <EditText
